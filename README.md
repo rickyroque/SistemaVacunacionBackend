@@ -1,17 +1,17 @@
 # SistemaVacunacionBackend
 
-Herramientas y versiones utilizadas: 
+# Herramientas y versiones utilizadas: 
 
-Lenguaje: JAVA version 8
-Framework: Spring boot Maven versión 2.7.5
-Base de datos: Postgresql.
-Ide: Apache NetBeans versión 15
+# Lenguaje: JAVA version 8
+# Framework: Spring boot Maven versión 2.7.5
+# Base de datos: Postgresql.
+# Ide: Apache NetBeans versión 15
 
-Propiedades de la aplicacion: 
+# Propiedades de la aplicacion: 
 
-En el apartado Application properties de la aplicacion cambiar username y paswword. 
--- spring.datasource.username=root
--- spring.datasource.password=12345
+# En el apartado Application properties de la aplicacion cambiar username y paswword. 
+# -- spring.datasource.username=root
+# -- spring.datasource.password=12345
 
 Si desea añadir una base de datos MySql Workbench, añadir las siguientes propiedades
 -- spring.datasource.url=jdbc:mysql://localhost:3306/bd_inventario_vacunas
