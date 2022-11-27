@@ -30,13 +30,14 @@ Si desea añadir una base de datos MySql Workbench, añadir las siguientes propi
 ```
 # Para acceder a la documentacion del codigo mediante OpenApi:
 ```
--- http://localhost:8080/swagger-ui/index.html 
+-- http://localhost:8080/swagger-ui/index.html
 ```
 # Creacion de la base de datos en postgresql: 
 ```
 -- CREATE DATABASE bd_inventario_vacunas
 
 La aplicacion contiene autenticacion de usuarios basados en tokens y seguridad.
+Por el momento he dejado habilitado los endpoints para que se puedan revisar desde la documentacion de swagger
 En los controladores se detalla las funciones y como acceder a ellas a travez de la api rest.
 
 De preferencia utilizar el mismo Ide para abrir el proyecto. 
