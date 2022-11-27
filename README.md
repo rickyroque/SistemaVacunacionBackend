@@ -1,6 +1,6 @@
 # SistemaVacunacionBackend
 
-## Herramientas y versiones utilizadas: 
+** Herramientas y versiones utilizadas: **
 
 ## Lenguaje: JAVA version 8
 ## Framework: Spring boot Maven versión 2.7.5
